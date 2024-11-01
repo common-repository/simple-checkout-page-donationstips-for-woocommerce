@@ -1,0 +1,9 @@
+#checkout-radio {
+	border: 1px solid #e0dadf; 
+    padding: 20px;
+    margin: 2em 0 2em 0; 
+    text-align: left;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
